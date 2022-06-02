@@ -1,10 +1,10 @@
-qb-target redesigned look!
+qb-target COG look!
 
-This is my first redesign so it may not be the best
+This is my first one so it may not be the best
 
-This script is a redesign of the original qb-target from QBCore framework changing the eye to a cog
+This script is a COG of the original qb-target from QBCore framework changing the eye to a cog
 
-If you wanna see more redesigns join my discord for more! I will be redesigning other QBCore Scripts to give your server a better look and make it feel more smooth
+If you wanna see more join my discord for more! I will be redesigning other QBCore Scripts to give your server a better look and make it feel more smooth
 
 Preview: https://streamable.com/ioyh5r
 Sorry for the bad quality 
